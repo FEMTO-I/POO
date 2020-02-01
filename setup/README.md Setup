@@ -3,11 +3,19 @@
 Ejercicio de Markdown en Github
 
 
-# Instalación de dotnet core 2.2.
+# Instalación de .net core 2.2.
+
 
 1. El primer paso para descargar .NET core es bajar el cliente mas reciente (v3.1.101) de instalacion de la siguiente pagina.
 
+
 [Link](https://dotnet.microsoft.com/download/dotnet-core/thank-you/sdk-3.1.101-windows-x64-installer)
+
+
+La pagina se ve asi: 
+
+
+[Imagen]
 
 
 # Instalación y configuración de Visual Studio Code para C#.
