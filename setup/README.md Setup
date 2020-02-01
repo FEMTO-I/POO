@@ -15,7 +15,7 @@ Ejercicio de Markdown en Github
 La pagina se ve asi: 
 
 
-[Imagen]
+[Imagen](./Setup/Img de .net core)
 
 
 # Instalación y configuración de Visual Studio Code para C#.
