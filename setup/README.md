@@ -15,7 +15,7 @@ Ejercicio de Markdown en Github
 La pagina se ve asi: 
 
 
-[Imagen](./img de .net.PNG)
+![Imagen](./imgdenet/imgnet.PNG)
 
 
 # Instalación y configuración de Visual Studio Code para C#.
