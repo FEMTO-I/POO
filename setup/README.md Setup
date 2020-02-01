@@ -9,13 +9,13 @@ Ejercicio de Markdown en Github
 1. El primer paso para descargar .NET core es bajar el cliente mas reciente (v3.1.101) de instalacion de la siguiente pagina.
 
 
-[Link](https://dotnet.microsoft.com/download/dotnet-core/thank-you/sdk-3.1.101-windows-x64-installer)
+[Link](https://dotnet.microsoft.com/download/dotnet-core/3.1)
 
 
 La pagina se ve asi: 
 
 
-[Imagen](C:\Users\ITT\Documents\GitHub\POO\setup\Img de .net core\img de .net.PNG)
+[Imagen](./Setup/Img de .net core)
 
 
 # Instalación y configuración de Visual Studio Code para C#.
